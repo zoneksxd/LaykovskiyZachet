@@ -1,0 +1,14 @@
+C:\Users\ccu\Desktop\laykovskiy402\LaykovskiyZachet\bin\Debug\net8.0\LaykovskiyZachet.exe
+C:\Users\ccu\Desktop\laykovskiy402\LaykovskiyZachet\bin\Debug\net8.0\LaykovskiyZachet.deps.json
+C:\Users\ccu\Desktop\laykovskiy402\LaykovskiyZachet\bin\Debug\net8.0\LaykovskiyZachet.runtimeconfig.json
+C:\Users\ccu\Desktop\laykovskiy402\LaykovskiyZachet\bin\Debug\net8.0\LaykovskiyZachet.dll
+C:\Users\ccu\Desktop\laykovskiy402\LaykovskiyZachet\bin\Debug\net8.0\LaykovskiyZachet.pdb
+C:\Users\ccu\Desktop\laykovskiy402\LaykovskiyZachet\obj\Debug\net8.0\LaykovskiyZachet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ccu\Desktop\laykovskiy402\LaykovskiyZachet\obj\Debug\net8.0\LaykovskiyZachet.AssemblyInfoInputs.cache
+C:\Users\ccu\Desktop\laykovskiy402\LaykovskiyZachet\obj\Debug\net8.0\LaykovskiyZachet.AssemblyInfo.cs
+C:\Users\ccu\Desktop\laykovskiy402\LaykovskiyZachet\obj\Debug\net8.0\LaykovskiyZachet.csproj.CoreCompileInputs.cache
+C:\Users\ccu\Desktop\laykovskiy402\LaykovskiyZachet\obj\Debug\net8.0\LaykovskiyZachet.dll
+C:\Users\ccu\Desktop\laykovskiy402\LaykovskiyZachet\obj\Debug\net8.0\refint\LaykovskiyZachet.dll
+C:\Users\ccu\Desktop\laykovskiy402\LaykovskiyZachet\obj\Debug\net8.0\LaykovskiyZachet.pdb
+C:\Users\ccu\Desktop\laykovskiy402\LaykovskiyZachet\obj\Debug\net8.0\LaykovskiyZachet.genruntimeconfig.cache
+C:\Users\ccu\Desktop\laykovskiy402\LaykovskiyZachet\obj\Debug\net8.0\ref\LaykovskiyZachet.dll
